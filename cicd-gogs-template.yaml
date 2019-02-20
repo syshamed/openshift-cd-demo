@@ -93,7 +93,7 @@ objects:
     source:
       contextDir: jenkins-master
       git:
-        uri: https://github.com/OpenShiftDemos/openshift-cd-demo.git
+        uri: https://github.com/syshamed/openshift-cd-demo.git
         ref: master
       secrets: []
       type: Git
